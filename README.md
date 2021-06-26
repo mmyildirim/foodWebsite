@@ -1,5 +1,5 @@
 # foodWebsite
-##Restorant Tanıtımı Yapan *Responsive *Uygulamam <br/><br/>
+##Restorant Tanıtımı Yapan *Responsive* Uygulamam <br/><br/>
 **Anasayfa**<br/><br/>
 ![appView](https://github.com/mmyildirim/foodWebsite/blob/main/foodAppView.png)<br/><br/>
 **Hakkimizda**<br/><br/>
